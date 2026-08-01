@@ -15,7 +15,7 @@ I specialize in computational genomics and translational oncology. Innovating bi
 
 ### 🚀 Key Precision Oncology Tools & Repositories
 
-> *Note: Codebases developed during my doctoral/postdoctoral work at the Demichelis Lab were maintained under shared lab infrastructure. Primary development and architectural contributions are detailed below.*
+> *Note: Codebases developed during my work at the Demichelis Lab were maintained under shared lab infrastructure. Primary development and architectural contributions are detailed below.*
 
 * **[SPICE-pipeline](https://github.com/demichelislab/SPICE-pipeline)** — *Developer & Primary Author*
   * **Summary:** Framework for allele specific analysis of matched tumor and normal next generation sequencing data
