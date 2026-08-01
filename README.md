@@ -54,5 +54,5 @@ I specialize in computational genomics and translational oncology. Innovating bi
 
 ### 📬 Connect with Me
 
-* 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/yari-ciani-7a841975/)
+* 💼 **LinkedIn:** [linkedin.com/in/yari-ciani](https://www.linkedin.com/in/yari-ciani-7a841975/)
 * 📧 **Email:** [yari.ciani@unitn.it](mailto:yari.ciani@unitn.it)
