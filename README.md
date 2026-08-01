@@ -28,6 +28,10 @@ I specialize in computational genomics and translational oncology. Innovating bi
 * **[FAME](https://github.com/demichelislab/FaME)** — *Developer & Primary Author*
   * **Summary:** FAME is a tool that can test the aberrations of the samples in one or more datasets in order to find signals of mutual exclusivity or co-occurrence between all the pairs of genes. 
   * **Paper:** *Fedrizzi, Ciani et al., Fast mutual exclusivity algorithm nominates potential synthetic lethal gene pairs through brute force matrix product computations, Comput Struct Biotechnol J. (2021)* [[https://doi.org/10.1016/j.csbj.2021.08.001]]
+ 
+ * **[PRODE](https://github.com/demichelislab/prodeTool)** — *Technical Supervisor & Co-Author*
+  * **Summary:** PRODE is an analysis framework that integrates Gene Effects data and Protein-Protein Interactions to compute, for each gene, Neighborhood-Informed Essential (NIE) or Neighborhood-Informd Context Essential (NICE) scores.
+  * **Paper:** *Cantore, et al., PRODE recovers essential and context-essential genes through neighborhood-informed scores, Genome Biol.(2025)* [[https://doi.org/10.1186/s13059-025-03501-0]]
 
 ---
 
