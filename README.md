@@ -1,4 +1,4 @@
-I'm Yari Ciani 👋
+Yari Ciani
 ### Bioinformatician & Computational Biologist | Precision Oncology
 
 I specialize in computational genomics and translational oncology. Innovating bioinformatics pipelines for high-throughput sequencing data (WGS, targeted sequencing, fragmentomics, RNA-seq, EV-RNA, Liquid Biopsies). Currently researching at the **University of Trento (Demichelis Lab)**, aiming to bridge data-driven discoveries with clinical impact.
